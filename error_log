@@ -1,0 +1,109 @@
+[19-Dec-2025 22:24:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[19-Dec-2025 22:24:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[19-Dec-2025 22:25:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[19-Dec-2025 22:25:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[19-Dec-2025 22:25:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[19-Dec-2025 22:32:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 04:30:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 21:49:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 67
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 67
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:54:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 21:54:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 21:54:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 63
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 67
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 67
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:55:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 68
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 64
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 64
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 65
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 65
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 66
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 107
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 107
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Undefined variable: ad in /home/berateuy/public_html/index.php on line 107
+[20-Dec-2025 21:59:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/berateuy/public_html/index.php on line 107
+[20-Dec-2025 22:05:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 22:06:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 22:06:53 UTC] PHP Notice:  Undefined index: district_id in /home/berateuy/public_html/add-listing.php on line 23
+[20-Dec-2025 22:06:53 UTC] PHP Warning:  move_uploaded_file(uploads/1766268413_5084.jpeg): failed to open stream: No such file or directory in /home/berateuy/public_html/add-listing.php on line 31
+[20-Dec-2025 22:06:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuKo59r' to 'uploads/1766268413_5084.jpeg' in /home/berateuy/public_html/add-listing.php on line 31
+[20-Dec-2025 22:06:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'district_id' cannot be null in /home/berateuy/public_html/add-listing.php:39
+Stack trace:
+#0 /home/berateuy/public_html/add-listing.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/berateuy/public_html/add-listing.php on line 39
+[20-Dec-2025 22:54:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[20-Dec-2025 22:55:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[21-Dec-2025 14:55:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[21-Dec-2025 17:25:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:45:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:46:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:46:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:47:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:47:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:47:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:48:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:49:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:50:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[22-Dec-2025 10:50:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[24-Dec-2025 07:17:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[24-Dec-2025 07:17:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[24-Dec-2025 07:21:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/berateuy/public_html/register.php on line 41
+[24-Dec-2025 10:56:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 10:56:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 10:56:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 10:56:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 10:56:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 10:56:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/berateuy/public_html/index.php on line 147
+[24-Dec-2025 20:13:40 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/berateuy/public_html/db.php on line 8
+[24-Dec-2025 20:13:40 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/berateuy/public_html/db.php on line 8
+[24-Dec-2025 20:13:40 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/berateuy/public_html/db.php on line 8
+[24-Dec-2025 20:17:44 UTC] PHP Fatal error:  Cannot redeclare mailGonder() (previously declared in /home/berateuy/public_html/db.php:27) in /home/berateuy/public_html/db.php on line 27
+[24-Dec-2025 20:18:26 UTC] PHP Fatal error:  Cannot redeclare mailGonder() (previously declared in /home/berateuy/public_html/db.php:27) in /home/berateuy/public_html/db.php on line 27
+[24-Dec-2025 20:18:28 UTC] PHP Fatal error:  Cannot redeclare mailGonder() (previously declared in /home/berateuy/public_html/db.php:27) in /home/berateuy/public_html/db.php on line 27
+[24-Dec-2025 20:18:29 UTC] PHP Fatal error:  Cannot redeclare mailGonder() (previously declared in /home/berateuy/public_html/db.php:27) in /home/berateuy/public_html/db.php on line 27
+[24-Dec-2025 20:18:29 UTC] PHP Fatal error:  Cannot redeclare mailGonder() (previously declared in /home/berateuy/public_html/db.php:27) in /home/berateuy/public_html/db.php on line 27
+[25-Dec-2025 08:39:48 UTC] PHP Notice:  Undefined variable: pdo in /home/berateuy/public_html/kayit.php on line 15
+[25-Dec-2025 08:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/berateuy/public_html/kayit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/berateuy/public_html/kayit.php on line 15
+[25-Dec-2025 08:40:42 UTC] PHP Notice:  Undefined variable: pdo in /home/berateuy/public_html/kayit.php on line 15
+[25-Dec-2025 08:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/berateuy/public_html/kayit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/berateuy/public_html/kayit.php on line 15
+[25-Dec-2025 10:01:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'SET' in /home/berateuy/public_html/sifremi-unuttum.php:25
+Stack trace:
+#0 /home/berateuy/public_html/sifremi-unuttum.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/berateuy/public_html/sifremi-unuttum.php on line 25
+[25-Dec-2025 10:01:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'SET' in /home/berateuy/public_html/sifremi-unuttum.php:25
+Stack trace:
+#0 /home/berateuy/public_html/sifremi-unuttum.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/berateuy/public_html/sifremi-unuttum.php on line 25
+[25-Dec-2025 10:22:44 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING) in /home/berateuy/public_html/sifremi-unuttum.php on line 37
